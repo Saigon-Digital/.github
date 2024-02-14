@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub repository of Saigon Digital, a leading digital agency committed to delivering innovative and cutting-edge technology solutions. Our team is passionate about creating impactful digital experiences that drive growth, improve user engagement, and transform businesses.
 
+https://saigon.digital
+
 ## About Saigon Digital 🌟
 
 At Saigon Digital, we specialize in web development, mobile application development, digital marketing, and UI/UX design. Our mission is to help businesses of all sizes unlock their full digital potential through bespoke technology solutions. From startups to enterprise-level corporations, we collaborate closely with our clients to ensure their digital objectives are met with precision, quality, and creativity.
@@ -20,7 +22,7 @@ Before contributing, please read our contribution guidelines carefully to ensure
 
 ## Useful Resources 👩‍💻
 
-- **Documentation:** Find detailed documentation for our projects and APIs in the `/docs` directory of each repository or visit our [official documentation site](#).
+- **Documentation:** Find detailed documentation for our projects and APIs in the `/docs` directory of each repository or visit our [official documentation site](https://saigon.digital/).
 - **Support:** For any questions or support requests, please use the issues section of the respective repository. Our team is dedicated to providing timely and helpful responses.
 
 ## Fun Facts 🍿
@@ -30,7 +32,7 @@ Before contributing, please read our contribution guidelines carefully to ensure
 
 ## Stay Connected
 
-Follow us on [GitHub](#) to stay up to date with our latest projects and initiatives. For more about Saigon Digital, visit our [website](#) or connect with us on [LinkedIn](#), [Facebook](#), and [Twitter](#).
+Follow us on [GitHub](#) to stay up to date with our latest projects and initiatives. For more about Saigon Digital, visit our [website](https://saigon.digital/) or connect with us on [LinkedIn](https://linkedin.com/company/saigon-digital), [Facebook](https://www.facebook.com/saigondigital2021/).
 
 Remember, **together, we can do mighty things**. We're excited to see what we can build with the power of the community and technology.
 
